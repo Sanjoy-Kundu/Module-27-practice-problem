@@ -1,0 +1,17 @@
+header{
+	background-color: #FFFBF0;
+}
+/* .fitst-model-banner{
+	width: 60%;
+} */
+.card img{
+	width: 293px;
+	height: 293px;
+}
+.card-bottom h2{
+	color:orange;
+}
+.card-bottom{
+	display: flex;
+	justify-content: space-around;
+}
